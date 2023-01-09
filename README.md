@@ -1,6 +1,13 @@
 # Predicting Death Rates for the top 10 Causes of Death in the United States
 
 ---
+## Communication Protocols / Strategies
+
+---
+Private Slack Channel created (includes all group members)
+All group memershave shared pone and personal email infomation in case of urgent issues
+Meetings via Slack huddle
+
 ## Presentation
 
 ---
@@ -30,3 +37,4 @@ As society changes, so to does the way we live. In some cases, these changes pro
 - Do changes in society correlate to increases or decreases in the death rate of related causes ofdeath?
 - Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
+---
