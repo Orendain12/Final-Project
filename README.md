@@ -25,6 +25,8 @@ As society changes, so to does the way we live. In some cases, these changes pro
 #### Questions to Answer:
 
 ---
-Which causes of death are increasing over time?
-Which causes of death are decreasing over time?
+- Which causes of death are increasing over time?
+- Which causes of death are decreasing over time?
+- Do changes in society correlate to increases or decreases in the death rate of related causes ofdeath?
+- Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
