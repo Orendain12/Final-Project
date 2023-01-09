@@ -5,7 +5,7 @@
 
 ---
 Private Slack Channel created (includes all group members)
-All group memershave shared pone and personal email infomation in case of urgent issues
+All group memebers shared phone and personal email infomation in case of urgent issues
 Meetings via Slack huddle
 
 ## Presentation
