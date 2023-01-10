@@ -23,11 +23,8 @@ X.head()
 y = df_death["Death Rate"].ravel()
 y[:5]
 
-# Splitting into Train and Test data sets.
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
-
-# Splitting the dataset into training and testing set (80/20)
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.2, random_state = 28)
+# Split the dataset into training and testing set (70/30)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.3, random_state = 42)
 
 # Initializing the Random Forest Regression model with 10 decision trees
 model = RandomForestRegressor(n_estimators = 10, random_state = 0)
