@@ -20,7 +20,7 @@ Meetings via Slack huddle
 #### Rationale for Topic Selection: 
   
 ---
-As society changes, so to does the way we live. In some cases, these changes provide a better quality of life, and in other cases these changes increase longevity. Whether it is living longer or living better, death - it's frequwncy and causes - can tell us much about life.
+As society changes, so to does the way we live. In some cases, these changes provide a better quality of life, and in other cases these changes increase longevity. Whether it is living longer or living better, death - it's frequency and causes - can tell us much about life.
 
 ---
 #### Source Data: 
