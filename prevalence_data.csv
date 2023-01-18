@@ -1,0 +1,859 @@
+Yr,State,CauseName,Prevalence
+2015,Alaska,Kidney Disease,2.1
+2015,Alabama,Kidney Disease,2.6
+2015,Arkansas,Kidney Disease,3
+2015,Arizona,Kidney Disease,3.5
+2015,California,Kidney Disease,2.3
+2015,Colorado,Kidney Disease,2.4
+2015,Connecticut,Kidney Disease,1.7
+2015,District of Columbia,Kidney Disease,2.9
+2015,Delaware,Kidney Disease,3.2
+2015,Florida,Kidney Disease,2.6
+2015,Georgia,Kidney Disease,3
+2015,Hawaii,Kidney Disease,2.9
+2015,Iowa,Kidney Disease,1.7
+2015,Idaho,Kidney Disease,1.7
+2015,Illinois,Kidney Disease,2.5
+2015,Indiana,Kidney Disease,2.7
+2015,Kansas,Kidney Disease,2.8
+2015,Kentucky,Kidney Disease,2.8
+2015,Louisiana,Kidney Disease,2.6
+2015,Massachusetts,Kidney Disease,2.2
+2015,Maryland,Kidney Disease,2.2
+2015,Maine,Kidney Disease,2.2
+2015,Michigan,Kidney Disease,3.1
+2015,Minnesota,Kidney Disease,1.9
+2015,Missouri,Kidney Disease,2.6
+2015,Mississippi,Kidney Disease,2.7
+2015,Montana,Kidney Disease,2.3
+2015,North Carolina,Kidney Disease,2.6
+2015,North Dakota,Kidney Disease,2.3
+2015,Nebraska,Kidney Disease,2.2
+2015,New Hampshire,Kidney Disease,2.3
+2015,New Jersey,Kidney Disease,1.8
+2015,New Mexico,Kidney Disease,2.8
+2015,Nevada,Kidney Disease,3.2
+2015,New York,Kidney Disease,2
+2015,Ohio,Kidney Disease,2.8
+2015,Oklahoma,Kidney Disease,2.4
+2015,Oregon,Kidney Disease,2.8
+2015,Pennsylvania,Kidney Disease,2.4
+2015,Rhode Island,Kidney Disease,2.4
+2015,South Carolina,Kidney Disease,2.6
+2015,South Dakota,Kidney Disease,2
+2015,Tennessee,Kidney Disease,3.2
+2015,Texas,Kidney Disease,2.7
+2015,United States,Kidney Disease,2.6
+2015,Utah,Kidney Disease,2.7
+2015,Virginia,Kidney Disease,2.2
+2015,Vermont,Kidney Disease,2.2
+2015,Washington,Kidney Disease,3.1
+2015,Wisconsin,Kidney Disease,2
+2015,West Virginia,Kidney Disease,3.2
+2015,Wyoming,Kidney Disease,2.7
+2015,California,Diabetes,9.7
+2015,District of Columbia,Diabetes,9.2
+2015,Alabama,Diabetes,12.1
+2015,Wyoming,Diabetes,7.6
+2015,Rhode Island,Diabetes,7.9
+2015,Utah,Diabetes,7.6
+2015,Alaska,Diabetes,7.8
+2015,Arkansas,Diabetes,11.3
+2015,Arizona,Diabetes,9.1
+2015,Colorado,Diabetes,6.4
+2015,Connecticut,Diabetes,8.2
+2015,Delaware,Diabetes,10
+2015,Florida,Diabetes,9.3
+2015,Georgia,Diabetes,10.7
+2015,Hawaii,Diabetes,7.8
+2015,Iowa,Diabetes,7.7
+2015,Idaho,Diabetes,7.4
+2015,Illinois,Diabetes,9.2
+2015,Indiana,Diabetes,10.6
+2015,Kansas,Diabetes,9
+2015,Kentucky,Diabetes,12.2
+2015,Louisiana,Diabetes,11.9
+2015,Massachusetts,Diabetes,8
+2015,Maryland,Diabetes,9.4
+2015,Maine,Diabetes,8.2
+2015,Michigan,Diabetes,9.7
+2015,Minnesota,Diabetes,6.9
+2015,Missouri,Diabetes,10.3
+2015,Mississippi,Diabetes,13.8
+2015,Montana,Diabetes,6.8
+2015,North Carolina,Diabetes,9.6
+2015,North Dakota,Diabetes,8.2
+2015,Nebraska,Diabetes,8
+2015,New Hampshire,Diabetes,6.8
+2015,New Jersey,Diabetes,7.9
+2015,New Mexico,Diabetes,10.5
+2015,Nevada,Diabetes,9
+2015,New York,Diabetes,9
+2015,Ohio,Diabetes,9.6
+2015,Oklahoma,Diabetes,10.8
+2015,Oregon,Diabetes,9.6
+2015,Pennsylvania,Diabetes,8.9
+2015,South Carolina,Diabetes,10.6
+2015,South Dakota,Diabetes,8.4
+2015,Tennessee,Diabetes,11.5
+2015,Texas,Diabetes,11.2
+2015,United States,Diabetes,9.1
+2015,Virginia,Diabetes,9.6
+2015,Vermont,Diabetes,7.1
+2015,Washington,Diabetes,7.7
+2015,Wisconsin,Diabetes,7.5
+2015,West Virginia,Diabetes,12.6
+2015,Alabama,CLRD,19.8
+2015,Alaska,CLRD,13.4
+2015,Arizona,CLRD,15.1
+2015,Arkansas,CLRD,19.2
+2015,California,CLRD,11.6
+2015,Colorado,CLRD,13.3
+2015,Connecticut,CLRD,15.3
+2015,Delaware,CLRD,15.4
+2015,District of Columbia,CLRD,16.5
+2015,Florida,CLRD,13.4
+2015,Georgia,CLRD,15.8
+2015,Hawaii,CLRD,14.2
+2015,Idaho,CLRD,13.5
+2015,Illinois,CLRD,13.8
+2015,Indiana,CLRD,17.4
+2015,Iowa,CLRD,12.8
+2015,Kansas,CLRD,14.4
+2015,Kentucky,CLRD,23.2
+2015,Louisiana,CLRD,15.3
+2015,Maine,CLRD,18.5
+2015,Maryland,CLRD,14.5
+2015,Massachusetts,CLRD,15.5
+2015,Michigan,CLRD,17.1
+2015,Minnesota,CLRD,11.6
+2015,Mississippi,CLRD,15.1
+2015,Missouri,CLRD,17.6
+2015,Montana,CLRD,14
+2015,Nebraska,CLRD,12.2
+2015,Nevada,CLRD,14.3
+2015,New Hampshire,CLRD,16.5
+2015,New Jersey,CLRD,11.9
+2015,New Mexico,CLRD,15.5
+2015,New York,CLRD,15.2
+2015,North Carolina,CLRD,15
+2015,North Dakota,CLRD,13.6
+2015,Ohio,CLRD,17
+2015,Oklahoma,CLRD,17.6
+2015,Oregon,CLRD,16.4
+2015,Pennsylvania,CLRD,16.5
+2015,Rhode Island,CLRD,16.7
+2015,South Carolina,CLRD,14.7
+2015,South Dakota,CLRD,13.6
+2015,Tennessee,CLRD,18
+2015,Texas,CLRD,12.5
+2015,United States,CLRD,14.9
+2015,Utah,CLRD,12.9
+2015,Vermont,CLRD,16.8
+2015,Virginia,CLRD,13.3
+2015,Washington,CLRD,15.1
+2015,West Virginia,CLRD,22.8
+2015,Wisconsin,CLRD,14
+2015,Wyoming,CLRD,14.5
+2014,Alabama,CLRD,19.2
+2014,Alaska,CLRD,12.5
+2014,Arizona,CLRD,16.3
+2014,Arkansas,CLRD,16.9
+2014,California,CLRD,12.4
+2014,Colorado,CLRD,12.2
+2014,Connecticut,CLRD,14
+2014,Delaware,CLRD,14.8
+2014,District of Columbia,CLRD,17
+2014,Florida,CLRD,14.8
+2014,Georgia,CLRD,15.5
+2014,Hawaii,CLRD,12.8
+2014,Idaho,CLRD,13.4
+2014,Illinois,CLRD,14.7
+2014,Indiana,CLRD,19
+2014,Iowa,CLRD,13.7
+2014,Kansas,CLRD,14.9
+2014,Kentucky,CLRD,23.5
+2014,Louisiana,CLRD,14.9
+2014,Maine,CLRD,18.7
+2014,Maryland,CLRD,14.1
+2014,Massachusetts,CLRD,18.1
+2014,Michigan,CLRD,19.1
+2014,Minnesota,CLRD,12.6
+2014,Mississippi,CLRD,14.6
+2014,Missouri,CLRD,17.3
+2014,Montana,CLRD,15.9
+2014,Nebraska,CLRD,13.3
+2014,Nevada,CLRD,14.5
+2014,New Hampshire,CLRD,16.3
+2014,New Jersey,CLRD,13.4
+2014,New Mexico,CLRD,15.3
+2014,New York,CLRD,16.1
+2014,North Carolina,CLRD,15
+2014,North Dakota,CLRD,13.3
+2014,Ohio,CLRD,18.4
+2014,Oklahoma,CLRD,17.3
+2014,Oregon,CLRD,15.6
+2014,Pennsylvania,CLRD,16
+2014,Rhode Island,CLRD,16
+2014,South Carolina,CLRD,15.4
+2014,South Dakota,CLRD,12.6
+2014,Tennessee,CLRD,18.8
+2014,Texas,CLRD,11.9
+2014,United States,CLRD,15
+2014,Utah,CLRD,12.5
+2014,Vermont,CLRD,17.1
+2014,Virginia,CLRD,14.7
+2014,Washington,CLRD,15
+2014,West Virginia,CLRD,23.3
+2014,Wisconsin,CLRD,15
+2014,Wyoming,CLRD,14.6
+2013,Alabama,CLRD,18.4
+2013,Alaska,CLRD,15
+2013,Arizona,CLRD,15.8
+2013,Arkansas,CLRD,16.7
+2013,California,CLRD,13.3
+2013,Colorado,CLRD,13.1
+2013,Connecticut,CLRD,15.4
+2013,Delaware,CLRD,16.2
+2013,District of Columbia,CLRD,18
+2013,Florida,CLRD,14.7
+2013,Georgia,CLRD,14.7
+2013,Hawaii,CLRD,13.9
+2013,Idaho,CLRD,12.9
+2013,Illinois,CLRD,12.3
+2013,Indiana,CLRD,17.8
+2013,Iowa,CLRD,13.6
+2013,Kansas,CLRD,14.8
+2013,Kentucky,CLRD,19.7
+2013,Louisiana,CLRD,14.9
+2013,Maine,CLRD,18.4
+2013,Maryland,CLRD,14.6
+2013,Massachusetts,CLRD,16.8
+2013,Michigan,CLRD,19.6
+2013,Minnesota,CLRD,11.7
+2013,Mississippi,CLRD,16.5
+2013,Missouri,CLRD,18
+2013,Montana,CLRD,14.5
+2013,Nebraska,CLRD,12.3
+2013,Nevada,CLRD,13.9
+2013,New Hampshire,CLRD,17.3
+2013,New Jersey,CLRD,14.5
+2013,New Mexico,CLRD,14.8
+2013,New York,CLRD,15.1
+2013,North Carolina,CLRD,15.4
+2013,North Dakota,CLRD,13
+2013,Ohio,CLRD,17.4
+2013,Oklahoma,CLRD,16.4
+2013,Oregon,CLRD,17.6
+2013,Pennsylvania,CLRD,16
+2013,Rhode Island,CLRD,18.8
+2013,South Carolina,CLRD,16
+2013,South Dakota,CLRD,11.8
+2013,Tennessee,CLRD,15.7
+2013,Texas,CLRD,12.7
+2013,United States,CLRD,15.1
+2013,Utah,CLRD,13.2
+2013,Vermont,CLRD,16.7
+2013,Virginia,CLRD,15
+2013,Washington,CLRD,15.2
+2013,West Virginia,CLRD,18.6
+2013,Wisconsin,CLRD,15.7
+2013,Wyoming,CLRD,15.8
+2012,Alabama,CLRD,17.8
+2012,Alaska,CLRD,14.4
+2012,Arizona,CLRD,14.3
+2012,Arkansas,CLRD,16.9
+2012,California,CLRD,13.4
+2012,Colorado,CLRD,13.7
+2012,Connecticut,CLRD,15.1
+2012,Delaware,CLRD,16.5
+2012,District of Columbia,CLRD,14.8
+2012,Florida,CLRD,15
+2012,Georgia,CLRD,15.1
+2012,Hawaii,CLRD,12.4
+2012,Idaho,CLRD,13.4
+2012,Illinois,CLRD,14.3
+2012,Indiana,CLRD,16.2
+2012,Iowa,CLRD,13.8
+2012,Kansas,CLRD,14.2
+2012,Kentucky,CLRD,21.7
+2012,Louisiana,CLRD,14.7
+2012,Maine,CLRD,18.3
+2012,Maryland,CLRD,14.4
+2012,Massachusetts,CLRD,16.1
+2012,Michigan,CLRD,17.3
+2012,Minnesota,CLRD,12.1
+2012,Mississippi,CLRD,14.4
+2012,Missouri,CLRD,18
+2012,Montana,CLRD,15
+2012,Nebraska,CLRD,12.5
+2012,Nevada,CLRD,14.4
+2012,New Hampshire,CLRD,15.9
+2012,New Jersey,CLRD,14
+2012,New Mexico,CLRD,15.5
+2012,New York,CLRD,15
+2012,North Carolina,CLRD,14.2
+2012,North Dakota,CLRD,11.5
+2012,Ohio,CLRD,18.7
+2012,Oklahoma,CLRD,17.2
+2012,Oregon,CLRD,16.3
+2012,Pennsylvania,CLRD,16.4
+2012,Rhode Island,CLRD,17.2
+2012,South Carolina,CLRD,15.7
+2012,South Dakota,CLRD,11.9
+2012,Tennessee,CLRD,16.4
+2012,Texas,CLRD,12
+2012,United States,CLRD,14.7
+2012,Utah,CLRD,13
+2012,Vermont,CLRD,16.7
+2012,Virginia,CLRD,14.4
+2012,Washington,CLRD,15.2
+2012,West Virginia,CLRD,19.8
+2012,Wisconsin,CLRD,13.3
+2012,Wyoming,CLRD,15.8
+2011,Alabama,CLRD,17.3
+2011,Alaska,CLRD,14.2
+2011,Arizona,CLRD,14.7
+2011,Arkansas,CLRD,17
+2011,California,CLRD,12.9
+2011,Colorado,CLRD,13
+2011,Connecticut,CLRD,15.8
+2011,Delaware,CLRD,15
+2011,District of Columbia,CLRD,14.7
+2011,Florida,CLRD,14.9
+2011,Georgia,CLRD,16.6
+2011,Hawaii,CLRD,13.7
+2011,Idaho,CLRD,14.3
+2011,Illinois,CLRD,14.1
+2011,Indiana,CLRD,17.6
+2011,Iowa,CLRD,13.2
+2011,Kansas,CLRD,15.2
+2011,Kentucky,CLRD,19.8
+2011,Louisiana,CLRD,13.1
+2011,Maine,CLRD,19.4
+2011,Maryland,CLRD,14.2
+2011,Massachusetts,CLRD,16.3
+2011,Michigan,CLRD,17.4
+2011,Minnesota,CLRD,10.9
+2011,Mississippi,CLRD,15.8
+2011,Missouri,CLRD,16.8
+2011,Montana,CLRD,15
+2011,Nebraska,CLRD,12.1
+2011,Nevada,CLRD,15.1
+2011,New Hampshire,CLRD,17.2
+2011,New Jersey,CLRD,13.9
+2011,New Mexico,CLRD,16
+2011,New York,CLRD,15.4
+2011,North Carolina,CLRD,15.4
+2011,North Dakota,CLRD,12.4
+2011,Ohio,CLRD,17.1
+2011,Oklahoma,CLRD,17.7
+2011,Oregon,CLRD,15.9
+2011,Pennsylvania,CLRD,15.4
+2011,Rhode Island,CLRD,17.9
+2011,South Carolina,CLRD,15.4
+2011,South Dakota,CLRD,11.9
+2011,Tennessee,CLRD,15.9
+2011,Texas,CLRD,13.1
+2011,United States,CLRD,15
+2011,Utah,CLRD,13
+2011,Vermont,CLRD,15.9
+2011,Virginia,CLRD,14.7
+2011,Washington,CLRD,13.7
+2011,West Virginia,CLRD,17.3
+2011,Wisconsin,CLRD,14.4
+2011,Wyoming,CLRD,15
+2015,Alabama,Tobacco,28.3
+2012,Alabama,Tobacco,30.3
+2011,Alabama,Tobacco,31.2
+2014,Alabama,Tobacco,27.7
+2013,Alabama,Tobacco,28.4
+2015,Alaska,Tobacco,24.8
+2012,Alaska,Tobacco,26
+2011,Alaska,Tobacco,27.9
+2014,Alaska,Tobacco,24.7
+2013,Alaska,Tobacco,28.8
+2015,Arizona,Tobacco,17.1
+2012,Arizona,Tobacco,20.5
+2011,Arizona,Tobacco,22.4
+2014,Arizona,Tobacco,20.2
+2013,Arizona,Tobacco,19.5
+2015,Arkansas,Tobacco,32.4
+2012,Arkansas,Tobacco,33.1
+2011,Arkansas,Tobacco,34.7
+2014,Arkansas,Tobacco,32
+2013,Arkansas,Tobacco,33.7
+2015,California,Tobacco,13.4
+2012,California,Tobacco,13.8
+2011,California,Tobacco,15
+2014,California,Tobacco,14.4
+2013,California,Tobacco,14
+2015,Colorado,Tobacco,19.8
+2012,Colorado,Tobacco,21.9
+2011,Colorado,Tobacco,22.6
+2014,Colorado,Tobacco,19.8
+2013,Colorado,Tobacco,21.9
+2015,Connecticut,Tobacco,15.7
+2012,Connecticut,Tobacco,18.7
+2011,Connecticut,Tobacco,19.3
+2014,Connecticut,Tobacco,18
+2013,Connecticut,Tobacco,18
+2015,Delaware,Tobacco,20.5
+2012,Delaware,Tobacco,22.9
+2011,Delaware,Tobacco,24.9
+2014,Delaware,Tobacco,22
+2013,Delaware,Tobacco,22.4
+2015,District of Columbia,Tobacco,15.8
+2012,District of Columbia,Tobacco,21.1
+2011,District of Columbia,Tobacco,21.7
+2014,District of Columbia,Tobacco,18.2
+2013,District of Columbia,Tobacco,20.4
+2015,Florida,Tobacco,19.1
+2012,Florida,Tobacco,22
+2011,Florida,Tobacco,23.3
+2014,Florida,Tobacco,21.6
+2013,Florida,Tobacco,20.2
+2015,Georgia,Tobacco,22
+2012,Georgia,Tobacco,24.3
+2012,Alabama,Kidney Disease,4.5
+2012,Arizona,Kidney Disease,6.2
+2012,Colorado,Kidney Disease,4.5
+2012,District of Columbia,Kidney Disease,4.8
+2012,Florida,Kidney Disease,5.5
+2012,Hawaii,Kidney Disease,7
+2012,Idaho,Kidney Disease,4
+2012,Indiana,Kidney Disease,5.4
+2012,Kentucky,Kidney Disease,4.7
+2012,Massachusetts,Kidney Disease,4.1
+2012,Maine,Kidney Disease,4.3
+2012,Minnesota,Kidney Disease,5.1
+2012,Mississippi,Kidney Disease,5.3
+2012,North Carolina,Kidney Disease,4.7
+2012,Nebraska,Kidney Disease,4.3
+2012,New Jersey,Kidney Disease,4.8
+2012,Nevada,Kidney Disease,6.6
+2012,Ohio,Kidney Disease,4.4
+2012,Oregon,Kidney Disease,4.9
+2012,Rhode Island,Kidney Disease,4.5
+2012,South Dakota,Kidney Disease,4.7
+2012,Texas,Kidney Disease,5.2
+2012,Utah,Kidney Disease,5.7
+2012,Vermont,Kidney Disease,3.8
+2012,Wisconsin,Kidney Disease,4.9
+2012,Wyoming,Kidney Disease,6
+2012,Alaska,Diabetes,18.2
+2012,Arkansas,Diabetes,21.6
+2012,California,Diabetes,19.7
+2012,Connecticut,Diabetes,15.4
+2012,Delaware,Diabetes,17.5
+2012,Georgia,Diabetes,19.6
+2012,Iowa,Diabetes,15.9
+2012,Illinois,Diabetes,16.9
+2012,Kansas,Diabetes,19
+2012,Louisiana,Diabetes,21.4
+2012,Maryland,Diabetes,17.2
+2012,Michigan,Diabetes,17.8
+2012,Missouri,Diabetes,16.5
+2012,Montana,Diabetes,18.1
+2012,North Dakota,Diabetes,17.7
+2012,New Hampshire,Diabetes,15.4
+2012,New Mexico,Diabetes,18
+2012,New York,Diabetes,17.6
+2012,Oklahoma,Diabetes,21.3
+2012,Pennsylvania,Diabetes,18.1
+2012,South Carolina,Diabetes,19.7
+2012,Texas,Diabetes,17.8
+2012,Utah,Diabetes,16.9
+2012,Vermont,Diabetes,16.3
+2012,Wisconsin,Diabetes,15.9
+2012,Wyoming,Diabetes,19.6
+2011,Georgia,Tobacco,25.3
+2014,Georgia,Tobacco,22.2
+2013,Georgia,Tobacco,23.8
+2015,Hawaii,Tobacco,17.2
+2012,Hawaii,Tobacco,17
+2011,Hawaii,Tobacco,19
+2014,Hawaii,Tobacco,16.1
+2013,Hawaii,Tobacco,15.5
+2015,Idaho,Tobacco,19.7
+2012,Idaho,Tobacco,21.7
+2011,Idaho,Tobacco,22
+2014,Idaho,Tobacco,21.6
+2013,Idaho,Tobacco,23.4
+2015,Illinois,Tobacco,18.4
+2012,Illinois,Tobacco,21.4
+2011,Illinois,Tobacco,24.4
+2014,Illinois,Tobacco,20
+2013,Illinois,Tobacco,20.8
+2015,Indiana,Tobacco,25.1
+2012,Indiana,Tobacco,28.4
+2011,Indiana,Tobacco,31
+2014,Indiana,Tobacco,28
+2013,Indiana,Tobacco,27.6
+2015,Iowa,Tobacco,23.9
+2012,Iowa,Tobacco,23.5
+2011,Iowa,Tobacco,25.6
+2014,Iowa,Tobacco,24.7
+2013,Iowa,Tobacco,25.4
+2015,Kansas,Tobacco,24.1
+2012,Kansas,Tobacco,25.3
+2011,Kansas,Tobacco,27.7
+2014,Kansas,Tobacco,24.2
+2013,Kansas,Tobacco,26.1
+2015,Kentucky,Tobacco,34.3
+2012,Kentucky,Tobacco,35.3
+2011,Kentucky,Tobacco,36.5
+2014,Kentucky,Tobacco,33.9
+2013,Kentucky,Tobacco,34.5
+2015,Louisiana,Tobacco,27.8
+2012,Louisiana,Tobacco,30.8
+2011,Louisiana,Tobacco,30.4
+2014,Louisiana,Tobacco,29.8
+2013,Louisiana,Tobacco,29.4
+2015,Maine,Tobacco,24.7
+2012,Maine,Tobacco,24.4
+2011,Maine,Tobacco,27.6
+2014,Maine,Tobacco,23.7
+2013,Maine,Tobacco,24.5
+2015,Maryland,Tobacco,17.9
+2012,Maryland,Tobacco,18.2
+2011,Maryland,Tobacco,21.3
+2014,Maryland,Tobacco,16.4
+2011,Alabama,Kidney Disease,5.1
+2011,Arizona,Kidney Disease,6.2
+2011,Colorado,Kidney Disease,4.8
+2011,District of Columbia,Kidney Disease,4.6
+2011,Florida,Kidney Disease,5.4
+2011,Hawaii,Kidney Disease,6
+2011,Idaho,Kidney Disease,3.7
+2011,Indiana,Kidney Disease,4.8
+2011,Kentucky,Kidney Disease,4.7
+2011,Massachusetts,Kidney Disease,4.3
+2011,Maine,Kidney Disease,3.9
+2011,Minnesota,Kidney Disease,4.5
+2011,Mississippi,Kidney Disease,4.5
+2011,North Carolina,Kidney Disease,4.5
+2011,Nebraska,Kidney Disease,3.9
+2011,New Jersey,Kidney Disease,4.2
+2011,Nevada,Kidney Disease,5.4
+2011,Ohio,Kidney Disease,5.1
+2011,Oregon,Kidney Disease,5.2
+2011,Rhode Island,Kidney Disease,4.4
+2011,South Dakota,Kidney Disease,3.9
+2011,Texas,Kidney Disease,4.7
+2011,Utah,Kidney Disease,5.3
+2011,Vermont,Kidney Disease,4
+2011,Wisconsin,Kidney Disease,4.2
+2011,Wyoming,Kidney Disease,4.7
+2011,United States,Diabetes,19.1
+2011,Alaska,Diabetes,17
+2011,Arkansas,Diabetes,21.4
+2011,Colorado,Diabetes,15.7
+2011,District of Columbia,Diabetes,18
+2011,Florida,Diabetes,17.8
+2011,Hawaii,Diabetes,18.1
+2011,Idaho,Diabetes,16.3
+2011,Indiana,Diabetes,19
+2011,Louisiana,Diabetes,20.5
+2011,Maryland,Diabetes,16.5
+2011,Michigan,Diabetes,17.7
+2011,Missouri,Diabetes,16.3
+2011,Montana,Diabetes,18.9
+2011,North Dakota,Diabetes,18
+2011,New Hampshire,Diabetes,15.6
+2011,New Mexico,Diabetes,17.5
+2011,New York,Diabetes,19.8
+2011,Oklahoma,Diabetes,19.8
+2011,Pennsylvania,Diabetes,16.8
+2011,South Carolina,Diabetes,19.1
+2011,Tennessee,Diabetes,19
+2011,Utah,Diabetes,17.8
+2011,Vermont,Diabetes,16.7
+2011,Wisconsin,Diabetes,16.2
+2011,Wyoming,Diabetes,18.4
+2013,Maryland,Tobacco,19.2
+2015,Massachusetts,Tobacco,17
+2012,Massachusetts,Tobacco,18
+2011,Massachusetts,Tobacco,20.4
+2014,Massachusetts,Tobacco,16.4
+2013,Massachusetts,Tobacco,18.3
+2015,Michigan,Tobacco,25.3
+2012,Michigan,Tobacco,28
+2011,Michigan,Tobacco,28.5
+2014,Michigan,Tobacco,26.6
+2013,Michigan,Tobacco,26.4
+2015,Minnesota,Tobacco,20.7
+2012,Minnesota,Tobacco,23.5
+2011,Minnesota,Tobacco,24.1
+2014,Minnesota,Tobacco,20.8
+2013,Minnesota,Tobacco,23.6
+2015,Mississippi,Tobacco,30.7
+2012,Mississippi,Tobacco,31.8
+2011,Mississippi,Tobacco,34.4
+2014,Mississippi,Tobacco,31.4
+2013,Mississippi,Tobacco,33.8
+2015,Missouri,Tobacco,28.8
+2012,Missouri,Tobacco,29.7
+2011,Missouri,Tobacco,31
+2014,Missouri,Tobacco,26.1
+2013,Missouri,Tobacco,28
+2015,Montana,Tobacco,29
+2012,Montana,Tobacco,29
+2011,Montana,Tobacco,30
+2014,Montana,Tobacco,29
+2013,Montana,Tobacco,28.2
+2015,Nebraska,Tobacco,23.1
+2012,Nebraska,Tobacco,25.3
+2011,Nebraska,Tobacco,26
+2014,Nebraska,Tobacco,22.6
+2013,Nebraska,Tobacco,24.4
+2015,Nevada,Tobacco,20.5
+2012,Nevada,Tobacco,21.7
+2011,Nevada,Tobacco,25.1
+2014,Nevada,Tobacco,20.1
+2013,Nevada,Tobacco,22.3
+2015,New Hampshire,Tobacco,18.7
+2012,New Hampshire,Tobacco,20.4
+2011,New Hampshire,Tobacco,23.7
+2014,New Hampshire,Tobacco,21.3
+2013,New Hampshire,Tobacco,19.8
+2015,New Jersey,Tobacco,15.6
+2012,New Jersey,Tobacco,19
+2011,New Jersey,Tobacco,18.7
+2014,New Jersey,Tobacco,17.5
+2013,New Jersey,Tobacco,17.5
+2015,New Mexico,Tobacco,22
+2015,Alabama,Tobacco,56.6
+2015,Arizona,Tobacco,100.5
+2015,Colorado,Tobacco,128.1
+2015,District of Columbia,Tobacco,100
+2015,Florida,Tobacco,100
+2015,Hawaii,Tobacco,102.4
+2015,Idaho,Tobacco,113.6
+2015,Indiana,Tobacco,126.8
+2015,Kentucky,Tobacco,131.4
+2015,Massachusetts,Tobacco,111.2
+2015,Maine,Tobacco,200
+2015,Minnesota,Tobacco,200
+2015,Mississippi,Tobacco,46.1
+2015,North Carolina,Tobacco,100
+2015,Nebraska,Tobacco,200
+2015,New Jersey,Tobacco,100
+2015,Nevada,Tobacco,100
+2015,Ohio,Tobacco,200
+2015,Oregon,Tobacco,100
+2015,Rhode Island,Tobacco,100
+2015,South Dakota,Tobacco,131.8
+2015,Texas,Tobacco,36.6
+2015,Utah,Tobacco,149.6
+2015,Vermont,Tobacco,100
+2015,Wisconsin,Tobacco,200
+2015,Wyoming,Tobacco,60.4
+2014,Alabama,Kidney Disease,4.9
+2014,Arizona,Kidney Disease,5.9
+2014,Colorado,Kidney Disease,4.9
+2014,District of Columbia,Kidney Disease,4.8
+2014,Florida,Kidney Disease,6.6
+2014,Hawaii,Kidney Disease,7
+2014,Idaho,Kidney Disease,4.8
+2014,Indiana,Kidney Disease,5.1
+2014,Kentucky,Kidney Disease,5.8
+2014,Massachusetts,Kidney Disease,5.7
+2014,Maine,Kidney Disease,4.8
+2014,Minnesota,Kidney Disease,5
+2014,Mississippi,Kidney Disease,5.1
+2014,North Carolina,Kidney Disease,4.7
+2014,Nebraska,Kidney Disease,4.1
+2014,New Jersey,Kidney Disease,4
+2014,Nevada,Kidney Disease,6
+2014,Ohio,Kidney Disease,4.5
+2014,Oregon,Kidney Disease,5.7
+2014,Rhode Island,Kidney Disease,4.7
+2014,South Dakota,Kidney Disease,4.5
+2014,Texas,Kidney Disease,5.8
+2014,Utah,Kidney Disease,5.3
+2014,Vermont,Kidney Disease,4.8
+2014,Wisconsin,Kidney Disease,4.6
+2014,Wyoming,Kidney Disease,5.9
+2014,Alabama,Diabetes,19.6
+2014,Arizona,Diabetes,20.8
+2014,Colorado,Diabetes,16.9
+2014,District of Columbia,Diabetes,17.2
+2014,Florida,Diabetes,19.4
+2014,Hawaii,Diabetes,20
+2014,Idaho,Diabetes,15.6
+2014,Indiana,Diabetes,19.2
+2014,Kentucky,Diabetes,21.1
+2014,Massachusetts,Diabetes,19.4
+2014,Maine,Diabetes,17.2
+2014,Minnesota,Diabetes,16.6
+2014,Mississippi,Diabetes,22.2
+2014,North Carolina,Diabetes,17.5
+2014,Nebraska,Diabetes,16.5
+2014,New Jersey,Diabetes,16.6
+2014,Nevada,Diabetes,19.4
+2014,Ohio,Diabetes,19.6
+2014,Oregon,Diabetes,19
+2014,Rhode Island,Diabetes,18.1
+2014,South Dakota,Diabetes,19
+2014,Texas,Diabetes,22.8
+2014,Utah,Diabetes,16.8
+2014,Vermont,Diabetes,16.1
+2014,Wisconsin,Diabetes,16.2
+2014,Wyoming,Diabetes,20
+2012,New Mexico,Tobacco,24.3
+2011,New Mexico,Tobacco,26
+2014,New Mexico,Tobacco,24.7
+2013,New Mexico,Tobacco,23.7
+2015,New York,Tobacco,17.9
+2012,New York,Tobacco,18.1
+2011,New York,Tobacco,20.6
+2014,New York,Tobacco,17.1
+2013,New York,Tobacco,19.1
+2015,North Carolina,Tobacco,24.3
+2012,North Carolina,Tobacco,25.3
+2011,North Carolina,Tobacco,27.1
+2014,North Carolina,Tobacco,24
+2013,North Carolina,Tobacco,24.7
+2015,North Dakota,Tobacco,26.9
+2012,North Dakota,Tobacco,29.8
+2011,North Dakota,Tobacco,29.5
+2014,North Dakota,Tobacco,27.2
+2013,North Dakota,Tobacco,29.2
+2015,Ohio,Tobacco,27
+2012,Ohio,Tobacco,28.7
+2011,Ohio,Tobacco,30.9
+2014,Ohio,Tobacco,26.6
+2013,Ohio,Tobacco,28.8
+2015,Oklahoma,Tobacco,29.3
+2012,Oklahoma,Tobacco,30.7
+2011,Oklahoma,Tobacco,33.5
+2014,Oklahoma,Tobacco,28.1
+2013,Oklahoma,Tobacco,30.6
+2015,Oregon,Tobacco,21.3
+2012,Oregon,Tobacco,22.1
+2011,Oregon,Tobacco,24.8
+2014,Oregon,Tobacco,21.3
+2013,Oregon,Tobacco,22.5
+2015,Pennsylvania,Tobacco,23.3
+2012,Pennsylvania,Tobacco,27.1
+2011,Pennsylvania,Tobacco,27.9
+2014,Pennsylvania,Tobacco,25.2
+2013,Pennsylvania,Tobacco,26.4
+2015,Rhode Island,Tobacco,18.4
+2012,Rhode Island,Tobacco,19.1
+2011,Rhode Island,Tobacco,22.1
+2014,Rhode Island,Tobacco,19.3
+2013,Rhode Island,Tobacco,20.3
+2015,South Carolina,Tobacco,24.7
+2012,South Carolina,Tobacco,27
+2011,South Carolina,Tobacco,27.3
+2014,South Carolina,Tobacco,26.1
+2013,South Carolina,Tobacco,27.3
+2015,South Dakota,Tobacco,27.8
+2012,South Dakota,Tobacco,29.5
+2011,South Dakota,Tobacco,30.7
+2013,Alabama,Kidney Disease,4.5
+2013,Arizona,Kidney Disease,5.9
+2013,Colorado,Kidney Disease,4.7
+2013,District of Columbia,Kidney Disease,4.5
+2013,Florida,Kidney Disease,5.4
+2013,Hawaii,Kidney Disease,5.6
+2013,Idaho,Kidney Disease,3.9
+2013,Indiana,Kidney Disease,4.6
+2013,Kentucky,Kidney Disease,4.6
+2013,Massachusetts,Kidney Disease,4.1
+2013,Maine,Kidney Disease,4
+2013,Minnesota,Kidney Disease,4.6
+2013,Mississippi,Kidney Disease,4.5
+2013,North Carolina,Kidney Disease,4.6
+2013,Nebraska,Kidney Disease,4.4
+2013,New Jersey,Kidney Disease,4.7
+2013,Nevada,Kidney Disease,6.5
+2013,Ohio,Kidney Disease,4.1
+2013,Oregon,Kidney Disease,6
+2013,Rhode Island,Kidney Disease,4.2
+2013,South Dakota,Kidney Disease,4.5
+2013,Texas,Kidney Disease,5.3
+2013,Utah,Kidney Disease,5.5
+2013,Vermont,Kidney Disease,4.1
+2013,Wisconsin,Kidney Disease,5.5
+2013,Wyoming,Kidney Disease,5.6
+2013,Alabama,Diabetes,20.1
+2013,Arizona,Diabetes,20.4
+2013,Colorado,Diabetes,16.2
+2013,District of Columbia,Diabetes,15.8
+2013,Florida,Diabetes,19.4
+2013,Hawaii,Diabetes,18.1
+2013,Idaho,Diabetes,16.3
+2013,Indiana,Diabetes,19.4
+2013,Kentucky,Diabetes,18.7
+2013,Massachusetts,Diabetes,18.7
+2013,Maine,Diabetes,17.4
+2013,Minnesota,Diabetes,16.1
+2013,Mississippi,Diabetes,21
+2013,North Carolina,Diabetes,17.3
+2013,Nebraska,Diabetes,16.7
+2013,New Jersey,Diabetes,16.2
+2013,Nevada,Diabetes,18.9
+2013,Ohio,Diabetes,19
+2013,Oregon,Diabetes,18.6
+2013,Rhode Island,Diabetes,17.2
+2013,South Dakota,Diabetes,19.6
+2013,Texas,Diabetes,22.1
+2013,Utah,Diabetes,16.7
+2013,Vermont,Diabetes,16
+2013,Wisconsin,Diabetes,15.4
+2013,Wyoming,Diabetes,19.4
+2014,South Dakota,Tobacco,25
+2013,South Dakota,Tobacco,26.9
+2015,Tennessee,Tobacco,28.5
+2012,Tennessee,Tobacco,30.5
+2011,Tennessee,Tobacco,29.9
+2014,Tennessee,Tobacco,32.4
+2013,Tennessee,Tobacco,29.3
+2015,Texas,Tobacco,19.1
+2012,Texas,Tobacco,21.8
+2011,Texas,Tobacco,22.7
+2014,Texas,Tobacco,18.7
+2013,Texas,Tobacco,19.9
+2015,United States,Tobacco,22.1
+2012,United States,Tobacco,24
+2011,United States,Tobacco,25.8
+2014,United States,Tobacco,22.8
+2013,United States,Tobacco,23.7
+2015,Utah,Tobacco,11.8
+2012,Utah,Tobacco,13
+2011,Utah,Tobacco,14.3
+2014,Utah,Tobacco,12.4
+2013,Utah,Tobacco,12.8
+2015,Vermont,Tobacco,20.7
+2012,Vermont,Tobacco,20.5
+2011,Vermont,Tobacco,23
+2014,Vermont,Tobacco,21.7
+2013,Vermont,Tobacco,20.7
+2015,Virginia,Tobacco,21.3
+2012,Virginia,Tobacco,23.3
+2011,Virginia,Tobacco,25.3
+2014,Virginia,Tobacco,23.8
+2013,Virginia,Tobacco,23
+2015,Washington,Tobacco,18.7
+2012,Washington,Tobacco,21.2
+2011,Washington,Tobacco,21.1
+2014,Washington,Tobacco,19.2
+2013,Washington,Tobacco,19.9
+2015,West Virginia,Tobacco,37.3
+2012,West Virginia,Tobacco,39.1
+2011,West Virginia,Tobacco,38.3
+2014,West Virginia,Tobacco,37
+2013,West Virginia,Tobacco,38.9
+2015,Wisconsin,Tobacco,21.9
+2012,Wisconsin,Tobacco,25.2
+2011,Wisconsin,Tobacco,25.5
+2014,Wisconsin,Tobacco,21.5
+2013,Wisconsin,Tobacco,23.7
+2015,Wyoming,Tobacco,29.3
+2012,Wyoming,Tobacco,31
+2011,Wyoming,Tobacco,33
+2014,Wyoming,Tobacco,29.1
+2013,Wyoming,Tobacco,29.9
