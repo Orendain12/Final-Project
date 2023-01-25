@@ -38,3 +38,12 @@ As society changes, so to does the way we live. In some cases, these changes pro
 - Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
 ---
+Steps taken to complete analysis. Take the time to point out interesting code. 
+
+---
+#### Conclusion
+
+---
+
+#### Observations
+
