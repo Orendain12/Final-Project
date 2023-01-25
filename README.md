@@ -47,3 +47,15 @@ Steps taken to complete analysis. Take the time to point out interesting code.
 
 #### Observations
 
+Observations and data visualizations were made via Tableau. Still images from these visuals and dashboards can be found below, along with links to the interactable dashboard. 
+
+![Prevalence and Death Count (2)](https://user-images.githubusercontent.com/111502918/214715588-e75a04f2-edea-4645-ac6f-e67c18ed2b3a.png)
+
+![Bans VS Smoking Deaths (3)](https://user-images.githubusercontent.com/111502918/214715612-3304a30b-85af-493b-a7ee-48f6789f746d.png)
+
+![Arizona (2)](https://user-images.githubusercontent.com/111502918/214715637-7ce9e307-0309-4a66-a4dd-dd2a98ee0347.png)
+
+Links:
+https://public.tableau.com/app/profile/justin8343/viz/Deathrateandpopulationstatistics/PrevalenceandDeathCount
+https://public.tableau.com/app/profile/justin8343/viz/SmokingBansVSDeaths/BansVSSmokingDeaths
+https://public.tableau.com/app/profile/justin8343/viz/ArizonaStatistics/Arizona
