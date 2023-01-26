@@ -44,7 +44,7 @@ As society changes, so to does the way we live. In some cases, these changes pro
 Although the model had insufficient data to predict death rates by cause and by state as originally planned, both the model and unmodeled data shows trends toward a decrease in overall death rates in the US from 1999 to 2017. Additional data (from prior to 1999) would have likely enhanced the predictive capability of the model, and allowed the desired granularity.
 
 ---
-#### Observations
+#### Observations and Dashboard Visualizations
 
 Observations and data visualizations were made via Tableau. Still images from these visuals and dashboards can be found below, along with links to the interactable dashboard. The dashboards createed were made to be filterable by year or cause of death for easier visualization of the data. There was a focus on death rates as it reduces the data being skewed by states with larger populations; however, the visuals still included data regarding number of deaths and state populations. Further visualizations also narrowed in on which states have passed smoking bans, how these bans have impacted death rates, and how specific states have experienced changes in their death rates since the passing of the ban.
 
