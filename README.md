@@ -38,13 +38,12 @@ As society changes, so to does the way we live. In some cases, these changes pro
 - Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
 ---
-Steps taken to complete analysis. Take the time to point out interesting code. 
-
----
 #### Conclusion
 
 ---
+Although the model had insufficient data to predict death rates by cause and by state as originally planned, both the model and unmodeled data shows trends toward a decrease in overall death rates in the US from 1999 to 2017. Additional data (from prior to 1999) would have likely enhanced the predictive capability of the model, and allowed the desired granularity.
 
+---
 #### Observations
 
 Observations and data visualizations were made via Tableau. Still images from these visuals and dashboards can be found below, along with links to the interactable dashboard. 
